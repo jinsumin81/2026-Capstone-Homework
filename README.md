@@ -12,4 +12,5 @@ ___
 6주차 - https://github.com/ai7dnn/2026-Capstone/blob/main/project-planning.md 확인하고 5월 12일에 발표<br>
 7주차 - 클로드 스킬생성 깃허브에 업로드<br>
 
-9주차 - 조별로 커서 계정 만들고 사용해보기
+9주차 - 조별로 커서 계정 만들고 사용해보기<BR>
+10주차 - 최종보고서에 LLM 활용 계획: 커서와 클로드 등 LLM 활용, chatGPT와 클로드 등 API 키 활용 계획, LLM 활용 결과: 커서와 클로드 등 LLM 활용, chatGPT와 클로드 등 API 키 활용 결과 -> 이두개는 한페이지 이상
